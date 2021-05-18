@@ -7,24 +7,32 @@ This configuration contains the default global profile and 2 additional profiles
 3. **Default** - This is just an empty profile to give you a way to set your mouse to the global profile with none of the multiboxing buttons active.
 
 # Action bar DPS
-All action bar DPS macros assume you are using NUM1 through NUM9 as well as NUM /, NUM 0 and NUMDOT.  Macros break an action bar up into a top and bottom, consisting of six buttons each.  NUM1 is assumed to be an in game macro that does the following:
+All action bar DPS macros assume you are using `NUM1` through `NUM9` as well as `NUM /`, `NUM 0` and `NUM .`.  Macros break an action bar up into a top and bottom, consisting of six buttons each.  `NUM1` is assumed to be an in game macro that does the following:
 ```
 /assist focus
 /script SetView(4); SetView(4)
 ```
 # Game movement and interact key bindings
 My game keys are as follows, update the profile to suit your preferences:
-E, ALT+E: Move forward, others move forward
-S, ALT+S: Move left, others move left
-F, ALT+F: Move right, others move right
-D, ALT+D: Move back, others move back
-H: Interact with Target (All characters)
-I: Interact with Target (Melee only)
+`E`, `ALT+E`: Move forward, others move forward
+
+`S`, `ALT+S`: Move left, others move left
+
+`F`, `ALT+F`: Move right, others move right
+
+`D`, `ALT+D`: Move back, others move back
+
+`H`: Interact with Target (All characters)
+
+`I`: Interact with Target (Melee only)
+
 
 # Additional key binds and macros  that may be referenced in either configuration:
-0: Follow `/follow focus`
-ALT+-: Click to move On `/run  ConsoleExec("Autointeract 1")`
-ALT+0: Click to move Off `/run ConsoleExec("Autointeract 0")`
+`0`: Follow `/follow focus`
+
+`ALT+-`: Click to move On `/run  ConsoleExec("Autointeract 1")`
+
+`ALT+0`: Click to move Off `/run ConsoleExec("Autointeract 0")`
 
 # Swiftpoint Profiles
 This configuration uses the default settings for switching profiles, changing mouse DPI and updating the OLED display.  Tilt the mouse to the right 25 degrees and use the following buttons:
