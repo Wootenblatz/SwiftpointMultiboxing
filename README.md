@@ -44,14 +44,18 @@ This configuration uses the default settings for switching profiles, changing mo
 # How do I use this?
 First you need [a Swiftpoint Z mouse](https://www.swiftpoint.com/store/swiftpoint-z-mouse/)!  I am not sponsored by them and I receive no compensation for linking to them.  I own two of these and it really is the best gaming mouse I've ever used.
 
-* Backup your own settings*
+**Download the configuration file**
 
-Next you would download the .SPCF file from this GitHub repository.  If you already have your own Swiftpoint configuration, you should back it up with the following commands (these are for use while in Expert Mode):
+Next you would download the .SPCF file from this GitHub repository, named `ISBoxer and AIMOS.spcf`.
+
+**Backup your own settings**
+
+If you already have your own Swiftpoint configuration, you should back it up with the following commands (these are for use while in Expert Mode):
 * Click on the hamburger menu (the three line icon top left)
 * Click Export Mappings to a file
 * Save your file somewhere you won't lose it.  I like to put mine in OneDrive but Google Drive and Dropbox work just as well.  If you make a habit of storing your configuration in the cloud you should be able to restore a previous version if you ever make a mistake
 
-* Import my settings *
+**Import my settings**
 
 With your config backed up, you can choose to import some or all of my configuration file.  The ISBoxer and AIMOS profiles are distinct so you can select either one or both.
 * Click the hamburger menu again
@@ -59,7 +63,7 @@ With your config backed up, you can choose to import some or all of my configura
 * Click the checkbox(es) of the profile(s) you want to import
 * Click OK
 
-* Save to on board memory *
+**Save to on board memory**
 
 If you like what you see remember to save the profile and store everything back on the mouse.
 * Hamburger menu
