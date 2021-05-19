@@ -14,13 +14,14 @@ All action bar DPS macros assume you are using `NUM1` through `NUM9` as well as 
 ```
 # Game movement and interact key bindings
 My game keys are as follows, update the profile to suit your preferences:
+
 `E`, `ALT+E`: Move forward, others move forward
 
 `S`, `ALT+S`: Move left, others move left
 
-`F`, `ALT+F`: Move right, others move right
-
 `D`, `ALT+D`: Move back, others move back
+
+`F`, `ALT+F`: Move right, others move right
 
 `H`: Interact with Target (All characters)
 
