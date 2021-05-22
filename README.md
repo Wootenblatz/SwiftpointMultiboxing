@@ -47,7 +47,7 @@ First you need [a Swiftpoint Z mouse](https://www.swiftpoint.com/store/swiftpoin
 
 **Download the configuration file**
 
-Next you would download the .SPCF file from this GitHub repository, named `ISBoxer and AIMOS.spcf`.
+Next you would download the .SPCF file from this GitHub repository, named `ISBoxer and AIMOS.spcf`.  Alternatively if you prefer to only use one type of profile, a recent update makes individual configuration files available for just ISBoxer and just AIMOS.  
 
 **Backup your own settings**
 
